@@ -1,2 +1,2 @@
-.\bin\assetc.exe ".\resources"
+.\bin\harfang\assetc\assetc.exe ".\resources"
 pause
